@@ -6,7 +6,6 @@
 - Source code – Implementation of the momentum strategy
 
 # Finominal Quant Challenge
-## Junior Quantitative Analyst
 Author: Vishal Roy
 
 # Objective
